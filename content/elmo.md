@@ -6,6 +6,6 @@ type: page
 menu: main
 
 ---
-{{< figure src="Hugo_test/images/elmo_hi.jpg" title="Elmo says \"Hi\"" >}}
+{{< figure src="/Hugo_test/images/elmo_hi.jpg" title="Elmo says \"Hi\"" >}}
 
 Here is a cute elmo
