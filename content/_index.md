@@ -1,7 +1,12 @@
 ---
-title: "Why is this so diffucult?"
-
-description: "o_______________o"
-featured_image: '/images/2elmo.gif'
+title: "(╯°□°)╯︵ ┻━┻" 
+description: "(╮°-°)╮┳━┳"
+featured_image: "/images/2elmo.gif"
 ---
-Hugo please behave!
+Der er noget tyk tekst her. \
+Man kan bruge "\\" for at skifte linje
+---
+Her er noget brødtekst\
+\
+\
+Man kan også skifte linje mange gange
