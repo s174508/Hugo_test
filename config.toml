@@ -1,5 +1,5 @@
 title = "Main page"
-baseURL = "https://s174508.github.io/"
+baseURL = "https://s174508.github.io/Hugo_test/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
