@@ -56,6 +56,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://s174508.github.io/Hugo_test/data_viz/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://s174508.github.io/Hugo_test/elmo/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
