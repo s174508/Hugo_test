@@ -12,7 +12,7 @@ This is a test
 
 Another test
 
-<iframe src="/Hugo_test/bokeh/hist.html"
+<iframe src="/Hugo_test/bokeh/hist_with_bg.html"
 	sandbox="allow-same-origin allow-scripts"
 	width="100%"
 	height="500"

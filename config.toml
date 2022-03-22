@@ -5,7 +5,7 @@ theme = "ananke"
 resourceDir = "../resources"
 contentDir = "content"
 publishDir = "docs"
-draft = true #COMMENT THIS OUT WHEN PUBLISHING
+#draft = true #COMMENT THIS OUT WHEN PUBLISHING
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
